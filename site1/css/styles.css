@@ -2,12 +2,12 @@ body {
 background-color: lightpink;
 }
 
-hr {
+/* hr {
   border-style: dotted none none;
   border-color: white;
   border-width: 8px;
   width: 4%;
-}
+} */
 
 h1 {
 color: lightseagreen;
